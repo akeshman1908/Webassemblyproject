@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "iframeproject",
   "resources": {
-    "hash": "sha256-9vdwUXevZ3oiMYRiMNhXFwuRt/43xxnd7KVA6+BnIl8=",
+    "hash": "sha256-p6zqQFEU05DAOXaPyEzFm0zscmypgQgOSK9yXBVplnE=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.flborj5axm.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "iframeproject.wasm": "sha256-dI6jT6gDUJ9dyv0JR8cZzPyDg7FTk72le2O1BIowktU=",
+      "iframeproject.wasm": "sha256-cSApWrTDEeBiIGdcgNGLPC0y0YOUQmGo2ttMAsQsmYw=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-HjDGGminMNwfrY2e3hrFGK3MVX+3Re7Yr5oRzG/se6A=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-4tmx4uC98MyKjCuM9ErBZwXpqkLx4fwVZfJQIv+Y0+A=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-LYJGTqka6p2RaQhwjm0nbX5muzjO6rM8oTE9uoUmGBs=",

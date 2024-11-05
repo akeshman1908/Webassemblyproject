@@ -1,1 +1,3 @@
+C:\Users\david\Desktop\iframe\iframeproject\bin\Release\net8.0\publish\sample-data\weather.json
+C:\Users\david\Desktop\iframe\iframeproject\bin\Release\net8.0\publish\_framework\blazor.boot.json
 C:\Users\david\Desktop\iframe\iframeproject\bin\Release\net8.0\publish\web.config

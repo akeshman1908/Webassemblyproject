@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "iframeproject",
   "resources": {
-    "hash": "sha256-NJ05/rnX48HKGGf4qOa3LB2pHAkHyzg3Qk2d+BgVrDU=",
+    "hash": "sha256-kt0b5yk5Q1Qnw8QgJSGNbTv5NzzC5gW/EFGBdAb9JVc=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.flborj5axm.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-masKveCdoRSahF99doEQk7H3YN2wHLVIE4M/Zu8OoD8=",
       "netstandard.wasm": "sha256-z1EJOmgVhSpTopn7Tek/0P//MKGF1I3NUD/sh4oLnwY=",
       "System.Private.CoreLib.wasm": "sha256-tuIWpR30u0OoEVtv4pXZ47mEpI2AmFBIyYFPnqDZZfw=",
-      "iframeproject.wasm": "sha256-dI6jT6gDUJ9dyv0JR8cZzPyDg7FTk72le2O1BIowktU="
+      "iframeproject.wasm": "sha256-cSApWrTDEeBiIGdcgNGLPC0y0YOUQmGo2ttMAsQsmYw="
     },
     "pdb": {
-      "iframeproject.pdb": "sha256-l20swlRe+sHitByJBfhMD+BBXjsulA5l08PNoyPD3AM="
+      "iframeproject.pdb": "sha256-RZCoNdhPF+493w88RppC4fuvvqxukGjcO0LWR/8ORFE="
     }
   },
   "cacheBootResources": true,

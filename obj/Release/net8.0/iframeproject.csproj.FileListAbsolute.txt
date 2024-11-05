@@ -1029,3 +1029,6 @@ C:\Users\david\Desktop\iframe\iframeproject\obj\Release\net8.0\iframeproject.dll
 C:\Users\david\Desktop\iframe\iframeproject\obj\Release\net8.0\refint\iframeproject.dll
 C:\Users\david\Desktop\iframe\iframeproject\obj\Release\net8.0\iframeproject.pdb
 C:\Users\david\Desktop\iframe\iframeproject\obj\Release\net8.0\ref\iframeproject.dll
+C:\Users\david\Desktop\iframe\iframeproject\bin\Release\net8.0\sample-data\weather.json
+C:\Users\david\Desktop\iframe\iframeproject\bin\Release\net8.0\_framework\blazor.boot.json
+C:\Users\david\Desktop\iframe\iframeproject\obj\Release\net8.0\iframeproject.sourcelink.json

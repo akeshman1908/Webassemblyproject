@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iframeproject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dad6b07b004aba83e18b118b2932d7e76044a84")]
 [assembly: System.Reflection.AssemblyProductAttribute("iframeproject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iframeproject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
